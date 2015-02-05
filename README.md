@@ -4,11 +4,11 @@ If you do web dev a lot...yes
 ### Install
 1. clone the repo
 
-        git clone git://github.com/happypeter/peter-vim.git
+        git clone https://github.com/YeungBen/MyVim.git
 
 1. rename it
 
-        mv peter-vim ~/.vim
+        mv MyVim ~/.vim
 
 1. set up `~/.vimrc`, have a fake `.vimrc` in your `$HOME`
 
@@ -18,7 +18,5 @@ If you do web dev a lot...yes
 
         sudo apt-get install exuberant-ctags ack-grep # for ubuntu
 
-1. Video about how I manage my plugins
 
-   - [vim plugin manage](http://happycasts.net/episodes/30)
 # MyVim
