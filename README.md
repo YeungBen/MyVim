@@ -1,5 +1,5 @@
 ### Who will love this?
-If you do web dev a lot...yes
+If you do  like vim a lot...yes
 
 ### Install
 1. clone the repo
